@@ -1,91 +1,45 @@
-# HR-Analytics-Project
-HR Analytics project using SQL, Python and Power BI
 
-# HR Analytics Project
+# HR Analytics Project Using Python
 
-## 📊 Employee Salary Analysis using SQL
+## Project Overview
+This project analyses employee data to identify workforce trends,
+employee termination patterns, departmental headcount, salary
+distribution, and performance ratings.
 
-### Project Overview
+## Dataset
+- Total records: 500 employees
+- Total columns: 12
+- Key fields: Department, JobTitle, Gender, HireDate,
+  TerminationDate, Salary, PerformanceRating, and Status
 
-This project analyzes employee salary and workforce data using SQL to generate useful HR insights.
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
 
-The project focuses on employee distribution, salary analysis, department-wise salary trends, employee rankings, and salary comparisons.
+## Key Analysis
+1. Employee headcount by department
+2. Active and terminated employee analysis
+3. Employee termination proportion
+4. Department-wise salary analysis
+5. Employee performance rating distribution
+6. Gender distribution
+7. Hiring trends by year
 
-### 🛠️ Tools & Technologies
+## Key Findings
+- 500 employee records were analysed.
+- 408 employees are marked Active.
+- 92 employees are marked Terminated.
+- The termination proportion is 18.4%.
 
-- SQL
-- SQLite
-- GitHub
+## Project Objective
+To demonstrate Python data analysis skills and generate
+meaningful workforce insights that can support HR decision-making.
 
-### 📁 Dataset
-
-The dataset contains employee information including:
-
-- Employee ID
-- Employee Name
-- Department
-- Salary
-- Experience
-- City
-
-### 🔍 Key HR Analysis
-
-The SQL analysis covers:
-
-- Total number of employees
-- Employee count by department
-- Average salary by department
-- Highest and lowest salaries
-- Salary categories
-- Employees earning above company average
-- Employees earning above department average
-- Salary distribution
-- Experience vs. salary analysis
-- Top-paid employees
-- Department salary rankings
-- Employee salary contribution by department
-- Window functions using RANK, DENSE_RANK and ROW_NUMBER
-- LAG and LEAD analysis
-- CTEs and subqueries
-
-### 📈 SQL Concepts Used
-
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- CASE
-- Aggregate Functions
-- IN / NOT IN
-- Subqueries
-- Correlated Subqueries
-- CTEs
-- Window Functions
-- RANK
-- DENSE_RANK
-- ROW_NUMBER
-- PARTITION BY
-- LAG
-- LEAD
-
-### 🎯 Project Objective
-
-The objective of this project is to use SQL to analyze employee data and generate insights that can support HR decision-making related to salary, workforce distribution and departmental analysis.
-
-### 🚀 Future Development
-
-This project will be expanded with:
-
-- Python-based HR data analysis
-- Power BI interactive dashboard
-- HR analytics visualizations
-- Business insights and recommendations
-
----
-
-## 👩‍💻 Author
-
-**Aishwarya Babhare**
-
-Aspiring Data Analyst | HR Analytics | SQL | Power BI | Python
+## Disclaimer
+This project uses a practice dataset. The findings describe
+the supplied data and should not be interpreted as conclusions
+about a real organisation.
