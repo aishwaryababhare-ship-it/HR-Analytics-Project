@@ -1,45 +1,21 @@
-
 # HR Analytics Project Using Python
 
-## Project Overview
-This project analyses employee data to identify workforce trends,
-employee termination patterns, departmental headcount, salary
-distribution, and performance ratings.
+## Objective
+Analysed employee workforce data to identify department-level trends, employee termination patterns, salary distribution, and performance ratings.
 
-## Dataset
-- Total records: 500 employees
-- Total columns: 12
-- Key fields: Department, JobTitle, Gender, HireDate,
-  TerminationDate, Salary, PerformanceRating, and Status
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab.
 
-## Tools and Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
+## Key Tasks Performed
+- Analysed 500 employee records.
+- Calculated active employee percentage and termination proportion.
+- Compared employee headcount and average salary across departments.
+- Analysed employee performance ratings and gender distribution.
+- Created visualisations and exported HR summary reports to Excel.
 
-## Key Analysis
-1. Employee headcount by department
-2. Active and terminated employee analysis
-3. Employee termination proportion
-4. Department-wise salary analysis
-5. Employee performance rating distribution
-6. Gender distribution
-7. Hiring trends by year
-
-## Key Findings
-- 500 employee records were analysed.
-- 408 employees are marked Active.
-- 92 employees are marked Terminated.
-- The termination proportion is 18.4%.
-
-## Project Objective
-To demonstrate Python data analysis skills and generate
-meaningful workforce insights that can support HR decision-making.
+## Key Finding
+408 employees were marked Active and 92 Terminated, representing an 18.4% termination proportion in the dataset.
 
 ## Disclaimer
-This project uses a practice dataset. The findings describe
-the supplied data and should not be interpreted as conclusions
-about a real organisation.
+This project uses a practice dataset and demonstrates Python-based HR data analysis skills.
+
