@@ -1,0 +1,35 @@
+# HR Analytics Dashboard | Power BI
+
+## Project Overview
+This project analyzes workforce data using Microsoft Power BI to support HR reporting and data-driven decision-making.
+
+## Objectives
+- Analyze total and active employee headcount.
+- Monitor employee terminations.
+- Compare average salaries across departments.
+- Examine gender distribution and performance ratings.
+- Track hiring trends over time.
+
+## Tools Used
+- Microsoft Power BI
+- DAX
+- Data visualization and HR analytics
+
+## Key Performance Indicators
+- Total Employees: 500
+- Active Employees: 408
+- Terminated Employees: 92
+- Displayed Termination Proportion: 18.4%
+- Average Salary: 88.26K
+
+## Business Recommendations
+- Investigate employee exit reasons and retention patterns.
+- Review salary differences across departments.
+- Identify opportunities for training and performance improvement.
+- Align recruitment planning with workforce requirements.
+
+## Dashboard Preview
+Add your dashboard screenshot here.
+
+## Conclusion
+This dashboard demonstrates how Power BI can transform HR data into workforce insights that support informed business decisions.
